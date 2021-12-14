@@ -1,0 +1,2 @@
+书籍名称：TensorFlow+Keras自然语言处理实战
+目前使用的TensorFlow版本为2.4
